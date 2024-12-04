@@ -1,27 +1,24 @@
-body {
+body{
     background-color: black;
-
-    color: whitesmoke;
-}
-
-section {
-    background-color: darkgray;
+    
+    color:whitesmoke;
+    }
+    section{
+    background-color:darkgray;
     padding-top: 60px;
     padding-bottom: 60px;
     display: flex;
     justify-content: center;
-}
-
-.MargemTitulo {
+    }
+    
+    .MargemTitulo {
     margin: 6%;
-}
-
-header {
+    }
+    header {
     margin: 5%;
     font-size: 20px;
     text-align: center;
-}
-
-header {
+    }
+    header {
     text-align: center;
-}
+    }
